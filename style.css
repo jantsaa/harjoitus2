@@ -1,0 +1,31 @@
+body {
+    text-align:center;
+    background-color:antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1, h2, h3 {
+    color:darkslateblue;
+    text-align:center;
+}
+
+
+a:link {
+  background-color:darkslateblue;
+  color: white;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-bottom : 15px;
+}
+a:visited{
+    background-color:white;
+}
+
+a:hover{
+    background-color:rgb(97, 86, 172);
+}
+
+a:active{
+    background-color:red;
+}
